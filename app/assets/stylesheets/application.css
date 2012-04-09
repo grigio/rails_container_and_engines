@@ -11,3 +11,7 @@
  *= require_self
  *= require landing_page
 */
+
+body{
+	background-color: yellow;
+};
